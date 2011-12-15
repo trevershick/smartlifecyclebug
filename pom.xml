@@ -6,9 +6,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>spring30</module>
 		<module>spring31</module>
 		<module>common</module>
+		<module>spring30</module>
 	</modules>
 	<dependencies>
 		<dependency>

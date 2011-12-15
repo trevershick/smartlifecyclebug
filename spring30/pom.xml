@@ -6,6 +6,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
+	<name>Spring 3.0 Version of Test - Should Fail</name>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tshick.test.smartlifecyclebug</groupId>
 	<artifactId>smartlifecyclebug-spring30</artifactId>
